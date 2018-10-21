@@ -1,0 +1,45 @@
+.block1 {
+    background-color: lime;
+    width: 150px;
+    height: 400px;
+}
+.block2 {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.block3 {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+.block4 {
+    background-color: yellow;
+    width: 150px;
+    height: 400px;
+    
+}
+.block5 {
+    background-color: orange;
+    width: 700px;
+    height: 200px;
+}
+.wrapper {
+    display:flex;
+    flex: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
